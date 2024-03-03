@@ -1,0 +1,10 @@
+.board-row:after {
+    clear: both;
+    content: '';
+    display: grid;
+}
+
+.status {
+    color: #fff;
+    background: #999;
+}
